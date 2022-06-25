@@ -1,0 +1,26 @@
+.row{
+    
+    display:flex;
+}
+
+.col{
+    
+    flex: 50%;              /*takes up half the screen */
+    padding-left: 2%;
+    color: white;
+    align-content: center;
+    
+}
+
+input {
+    display: block; /*organize input boxes*/
+    font-size: 20px;
+    padding: 4px 2px;
+    margin: 2px 0 20px 10px;
+    border: solid 1px #aacfe4;
+}
+
+body {
+    background-image: url(https://images2.alphacoders.com/764/76490.jpg);
+    
+}
